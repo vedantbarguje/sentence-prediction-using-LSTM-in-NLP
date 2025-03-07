@@ -1,4 +1,4 @@
-# Word Prediction using Language Models
+# sentence Prediction using Language Models
 
 ## Introduction
 Predicting the next word in a sentence is a fundamental Natural Language Processing (NLP) task with various applications such as text autocompletion, spelling correction, and search engine optimization. This project explores different language model architectures for word prediction, focusing on:
